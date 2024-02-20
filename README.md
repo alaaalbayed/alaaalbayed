@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack Developer<br>🌱 I’m currently learning React.js<br>🤝 I’m looking for help with discord bot developer
+🔭 I’m currently working as a Full Stack Developer<br>🌱 I’m currently learning Angular<br>🤝 I’m looking for help with discord bot developer
 
 
 ## 🌐 Socials:
